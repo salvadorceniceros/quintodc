@@ -66,6 +66,17 @@ main p {
     width="100%";
 }
 
+.principal img{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-radius: 1rem;
+}
+
+.principal ul li{
+    text-align: justify;
+}
+
 .mapa{
     margin-top:1rem;
 }
